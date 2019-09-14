@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "13616465679",
+    "firebase_url": "https://homefashion-70992.firebaseio.com",
+    "project_id": "homefashion-70992",
+    "storage_bucket": "homefashion-70992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13616465679:android:0818e2947fa8e659",
+        "android_client_info": {
+          "package_name": "com.example.homefashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13616465679-ob2rm7me2p4etohg40ouc3t70tin1tso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homefashion",
+            "certificate_hash": "757bf0cafbfb59e48254772cfd5475aaa8942cb4"
+          }
+        },
+        {
+          "client_id": "13616465679-kar673f20mn3ibovkqidfledr4tob7ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homefashion",
+            "certificate_hash": "39c905624198be85e84a9f9d11a63654d69ec354"
+          }
+        },
+        {
+          "client_id": "13616465679-22lgu1noc7gl6e91q70i2rsk1jfat28k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUyvYXbAEGDBAA0Fb-E_Z-kytHCLaEhbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13616465679-22lgu1noc7gl6e91q70i2rsk1jfat28k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
